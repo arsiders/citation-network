@@ -8,9 +8,6 @@
 # NOTE: Will have high error rate if titles are very short or comprised of common words (e.g., paper "Vulnerability" produced many false positives). Some errors result from authors using a shortened version of a title (e.g., only text before a colon) or incorrect citations or typos. Citation networks produced are therefore approximate and to be used primarily for exploration of the data.
 # NOTE: Error rate may be reduced by using only reference sections of the articles of interest, rather than full texts, but this will increase work required to prepare articles. 
 
-
-# ==> FIVE STEPS TO CITATION NETWORK
-
 # STEP 1. FORMAT INPUT
 # a. Papers: Folder of papers in txt format (UTF-8) organized *in SAME ORDER* as Titles 
 # b. Titles: Column of paper titles in csv spreadsheet (Column #1) *in SAME ORDER* as documents in Papers folder. Need a header cell or top title will be removed.
@@ -38,6 +35,8 @@ titles<-as.vector(titletable[,1])
 # STEP 4. RUN FUNCTION 
 
 CitationNetwork<-CreateCitationNetwork(papers,titles)
+
+# report results out
 # add date
 currentDate <- Sys.Date()
 csvFileName <- paste("CitationEdges",currentDate,".csv",sep="")
