@@ -19,3 +19,13 @@ A.R. Siders, siders@alumni.stanford.edu
 2. **Titles:** A csv file with a list of text titles in the first column with a header at the top. (Or you may edit the code to reference the appropriate column when reading in the title csv.) [Web of Science](webofknowledge.com) provides titles in this column format when bibliographic information is downloaded.  
 
 3. **Network Visualizer:** Results are formatted to be uploaded as an edges table into [Gephi](https://gephi.org/) network visualization and anlaysis software, but any network visualization software or other R code could be used instead. 
+
+## To Test 
+
+In the "test files" folder are sample texts (reference lists from academic studies in txt format) and titles (a list of paper titles in a csv document with header) that can be used to test the citation network code. 
+
+1. Download testtitles.csv to your working directory. 
+2. Download all 20 test papers into a folder in your working directory. 
+3. Use provided results to compare with your output.
+
+Common errors include a) papers not being in alphabetical order, and b) reading in the wrong number of titles (should be 20). 
