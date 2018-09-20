@@ -1,0 +1,136 @@
+﻿References
+Adger, W.N., 2000. Social and ecological resilience: are they related?
+Progress in Human Geography 24 (3), 347–364.
+Adger, W.N., 2006. Vulnerability. Global Environmental Change 16 (3),
+268–281.
+Anderies, J.M., Janssen, M.A., Ostrom, E., 2004. A framework to analyze
+the robustness of social-ecological systems from an institutional
+perspective. Ecology and Society 9 (1) art. 18 [online], URL: http://
+www.ecologyandsociety.org/vol9/iss1/art18.
+Ashby, W.R., 1956. An Introduction to Cybernetics. Chapman and Hall,
+London.
+Berkes, F., Folke, C. (Eds.), 1998. Linking Social and Ecological Systems:
+Management Practices and Social Mechanisms for Building Resilience.
+Cambridge University Press, Cambridge.
+Bohle, H.-G., 2001. Vulnerability and criticality: perspectives from social
+geography. IHDP Update 2/01, art. 1 [online]. URL: http://www.ihdp.
+uni-bonn.de/html/publications/update/IHDPUpdate01_02.html.
+Butenin, N.V., 1965. Elements of the Theory of Nonlinear Oscillations.
+Blaisdell, New York.
+Carpenter, S., Brock, W., Hanson, P., 1999. Ecological and social
+dynamics in simple models of ecosystem management. Conservation
+Ecology 3 (2) art. 4 [online], URL: http://www.consecol.org/vol3/iss2/
+art4.
+Carpenter, S.R., Walker, B.H., Anderies, J.M., Abel, N., 2001. From
+metaphor to measurement: resilience of what to what? Ecosystems 4,
+765–781.
+Dobzhansky, T., 1968. Adaptness and fitness. In: Lewontin, R.C. (Ed.),
+Population Biology and Evolution. Syracuse Univ. Press, Syracuse,
+New York, pp. 109–121.
+Folke, C., 2006. Resilience: the emergence of a perspective for socialecological
+systems analyses. Global Environmental Change 16 (3),
+253–267.
+Folke, C., Carpenter, S., Elmqvist, T., Gunderson, L., Holling, C.S.,
+Walker, B., Bengtsson, J., Berkes, F., Colding, J., Danell, K.,
+Falkenmark, M., Gordon, L., Kaspersson, R., Kautsky, N., Kinzig,
+A., Levin, S.A., Ma¨ ler, K.-G., Moberg, F., Ohlsson, L., Olsson, P.,
+Ostrom, E., Reid, W., Rockstro¨ m, J., Savenije, H., Svedin, U., 2002.
+Resilience and sustainable development: building adaptive capacity in
+a world of transformations. Report for the Swedish Environmental
+Advisory Council 2002:1. Ministry of the Environment, Stockholm,
+Sweden.
+Gallopı´n, G.C., 1991. Human dimensions of global change: linking the
+global and the local processes. International Social Science Journal
+130, 707–718.
+Gallopı´n, G.C., 2003. Box 1. A systemic synthesis of the relations between
+vulnerability, hazard, exposure and impact, aimed at policy identification
+In: Economic Commission for Latin American and the Caribbean
+(ECLAC). Handbook for Estimating the Socio-Economic and Environmental
+Effects of Disasters. ECLAC, LC/MEX/G.S., Mexico, D.F.,
+pp. 2–5.
+Gallopı´n, G.C., Gutman, P., Maletta, H., 1989. Global impoverishment,
+sustainable development and the environment. A conceptual
+approach. International Social Science Journal 121,
+375–397.
+Gallopı´n, G.C., Funtowicz, S., O’Connor, M., Ravetz, J., 2001. Science
+for the 21st century: from social contract to the scientific core.
+International Social Science Journal 168, 219–229.
+Gunderson, L.H., 2000. Resilience in theory and practice. Annual Review
+of Ecology and Systematics 31, 425–439.
+Gunderson, L.H., Holling, C.S. (Eds.), 2002. Panarchy. Island Press,
+Washington, DC.
+Hahn, W., 1967. Stability of Motion. Springer, Berlin.
+Holling, C.S., 1973. Resilience and stability of ecological systems. Annual
+Review of Ecology and Systematics 4, 1–23.
+Holling, C.S., 1985. Perceiving and managing the complexity of ecological
+systems. In: Aida, S., et al. (Eds.), The Science and Praxis of
+Complexity: Contributions to the Symposium Held at Montpellier,
+France, May 9–11, 1984. GLDB-2/UNUP-560. United Nations
+University Press, Tokyo, pp. 217–227.
+Holling, C.S., 1986. The resilience of terrestrial ecosystems: local surprise
+and global change. In: Clark, W.C., Munn, R.E. (Eds.), Sustainable
+Development of the Biosphere. IIASA/Cambridge University Press,
+Cambridge, UK, pp. 292–317.
+Holling, C.S., 1996. Engineering resilience versus ecological resilience. In:
+Schulze, P.C. (Ed.), Engineering within Ecological Constraints.
+National Academy Press, Washington, DC, pp. 31–43.
+IPCC (Intergovernmental Panel on Climate Change), 2001. Technical
+summary: climate change 2001: impacts, adaptation, and vulnerability.
+A Report of Working Group II of the Intergovernmental Panel on
+Climate Change. URL: http://www.grida.no/climate/ipcc_tar/wg2/
+pdf/wg2TARtechsum.pdf.
+Janssen, M.A., Schoon, M.I., Ke, W., Bo¨ rner, K., 2006. Scholarly
+networks on resilience, vulnerability and adaptation within the human
+dimensions of global environmental change. Global Environmental
+Change 16.
+Jen, E., 2003. Stable or robust? What’s the difference? Complexity 8 (3),
+12–18.
+Kasperson, J.X., Kasperson, R.E., Turner II., B.L., Schiller, A., Hsiel, W.-
+H., 2005. Vulnerability to global environmental change. In: Kasperson,
+J.X., Kasperson, R.E. (Eds.), Social Contours of Risk, vol. II.
+Earthscan, London, pp. 245–285.
+Luers, A.L., 2005. The surface of vulnerability: an analytical framework
+for examining environmental change. Global Environmental Change
+15, 214–223.
+Nicolis, G., Prigogine, I., 1977. Self-Organization in Non-Equilibrium
+Systems: From Dissipative Structures to Order through Fluctuation.
+Wiley, New York.
+Nicolis, G., Prigogine, I., 1989. Exploring Complexity. Freeman, New York.
+Pimm, S.L., 1984. The complexity and stability of ecosystems. Nature 307
+(26), 321–326.
+Prigogine, I., Stengers, I., 1979. La Nouve` lle Alliance. Me´tamorphose de
+la Science. Gallimard, Paris.
+Schellnhuber, H.J., 1998. Earth system analysis—the scope of the
+challenge. In: Schellnhuber, H.J., Wenzel, V. (Eds.), Earth System
+Analysis: Integrating Science for Sustainability. Springer, Heidelberg.
+Smit, B., Wandel, J., 2006. Adaptation, adaptive capacity and vulnerability.
+Global Environmental Change 16 (3), 282–292.
+Smithers, J., Smit, B., 1997. Human adaptation to climatic variability and
+change. Global Environmental Change 7 (2), 129–146.
+Thom, R., 1972. Stabilite´ Structurelle et Morphoge´ne` se. W.A. Benjamin,
+Reading, MA.
+Tomovic, R., 1963. Sensitivity Analysis of Dynamic Systems. McGraw-
+Hill, New York.
+Tu, P.N.V., 1994. Dynamical Systems: An Introduction with Applications
+in Economics and Biology, second ed. Springer, Berlin.
+Turner II., B.L., Kasperson, R.E., Matson, P.A., McCarthy, J.J., Corell,
+R.W., Christensen, L., Eckley, N., Kasperson, J.X., Luers, A.,
+Martello, M.L., Polsky, C., Pulsipher, A., Schiller, A., 2003. A
+framework for vulnerability analysis in sustainability science. Proceedings
+of the National Academy of Sciences of the United States of
+America 100 (14), 8074–8079.
+van der Leeuw, S.E., 2001. ‘Vulnerability’ and the integrated study of
+socio-natural phenomena. IHDP Update 2/01, art. 2 [online]. URL:
+http://www.ihdp.uni-bonn.de/html/publications/update/IHDPUpdate01_
+02.html.
+Walker, B., Holling, C.S., Carpenter, S.R., Kinzig, A., 2004. Resilience,
+adaptability and transformability in social-ecological systems. Ecology
+and Society 9 (2) art. 5 [online], URL: http://www.ecologyandsociety.
+org/vol9/iss2/art5.
+Young, O.R., 2005. Institutional Dynamics: Resilience and Vulnerability
+in Environmental and Resource Regimes. September 2005 Draft; cited
+with permission from the author.
+Young, O.R., Berkhout, F., Gallopı´n, G., Janssen, M.A., Ostrom, E., van
+der Leeuw, S., 2006. The Globalization of Socio-Ecological Systems:
+An Agenda for Scientific Research. Global Environmental Change 16
+(3), 304–316.
