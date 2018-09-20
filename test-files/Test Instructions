@@ -1,9 +1,9 @@
 #Test Citation Network 
 
-In this folder are sample texts (reference lists from academic studies in txt format) and titles (a list of paper titles in a csv document with header). These can be used to test the citation network code. 
+In this folder are sample texts (reference lists from academic studies in txt format) and titles (a list of paper titles in a csv document with header) that can be used to test the citation network code. 
 
-Download the testtitles csv to your working directory. 
+Download testtitles.csv to your working directory. 
 
-Download the test papers into a folder in your working directory. 
+Download all 20 test papers into a folder in your working directory. 
 
-Download and compare results to those provided. 
+Use results to compare with your output.
