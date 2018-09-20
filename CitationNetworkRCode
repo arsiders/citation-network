@@ -33,11 +33,11 @@ titles<-as.vector(titletable[,1])
 
 CitationNetwork<-CreateCitationNetwork(papers,titles)
 
-#save results
-# add date
+# SAVE RESULTS
+# add date 
 currentDate <- Sys.Date()
+# write results to csv in working directory
 csvFileName <- paste("CitationEdges",currentDate,".csv",sep="")
-# save results
 write.csv(CitationNetwork, file=csvFileName) 
 
   
