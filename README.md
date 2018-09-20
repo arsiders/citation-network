@@ -14,7 +14,7 @@ A.R. Siders, siders@alumni.stanford.edu
 
 ### You will need: 
 
-1. **Papers:** A set of texts in txt format. Batch converters from pdf and word are available online. The texts should be stored in a folder and should be the ONLY items in the folder. Texts must be in the same order as the titles in the csv file. One approach is to save all texts in Papers folder using author last name listed alphabetically, and then to organize titles in same order. 
+1. **Papers:** A set of texts in txt format. Batch converters from pdf and word are available online. The texts should be stored in a folder and should be the ONLY items in the folder. Texts must be in the same order as the titles in the csv file. One approach is to save all texts in Papers folder using author last name listed alphabetically, and then to organize titles in same order. Texts may include the full text of studies or, to reduce error rates, just the reference sections of studies. 
 
 2. **Titles:** A csv file with a list of text titles in the first column with a header at the top. (Or you may edit the code to reference the appropriate column when reading in the title csv.) [Web of Science](webofknowledge.com) provides titles in this column format when bibliographic information is downloaded.  
 
