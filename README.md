@@ -6,10 +6,7 @@ A.R. Siders, siders@alumni.stanford.edu
 Premise. This code identifies cross-citations within a set of texts. It does this by searching for full titles.
 The rationale is that if Article 1 contains the full title of Article 2, it is because Article 1 cites Article 2. 
 
-This is not a valid assumption if your researh field does not use full titles in the citation format, or if the titles
-of the papers are short or comprised of very common words (e.g., a paper titled "Vulnerability" yields many false positives). 
-Errors will be introduced by typos in the citation field, formatting problems when converting pdf to txt, and short citations
-(e.g., when an author only cites the part of a title before the colon). This code is therefore a way to create a quick citation network but is not error-free. 
+This is not a valid assumption if your field does not use full titles in the citation format, or if titles of the papers are short or comprised of very common words (e.g., a paper titled "Vulnerability" yields many false positives). Errors will be introduced by typos in the citation field, formatting problems when converting pdf to txt, and short citations (e.g., when an author only cites the part of a title before a colon). This code is therefore a way to create a quick citation network but is not error-free. 
 
 Getting Started. You will need: 
 
