@@ -3,6 +3,8 @@ RCitation - A quick way to create a citation network based on titles in R
 
 A.R. Siders, siders@alumni.stanford.edu
 
+[![DOI](https://zenodo.org/badge/149623178.svg)](https://zenodo.org/badge/latestdoi/149623178)
+
 ## Intro
 * This code identifies cross-citations within a set of texts. 
 * It works by searching for full titles. The rationale is that if Article 1 contains the full title of Article 2, it is because Article 1 cites Article 2. 
